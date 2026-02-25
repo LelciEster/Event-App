@@ -6,7 +6,7 @@
 <h1>Manage my Events</h1>
 <a href="/admin/event/new">
 
-    <button>add new event</button>
+    <button class="halili">add new event</button>
 </a>
 
 <main>
